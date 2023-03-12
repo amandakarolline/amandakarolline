@@ -1,4 +1,4 @@
-## Bem-vindo(a) ao perfil da Amanda Karolline 😁
+## Bem-vindo(a) ao perfil da Amanda Karolline
 
  <div>
    <a href="https://github.com/amandakarolline">
